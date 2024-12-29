@@ -8,12 +8,6 @@ public class BankService {
 
 	}
 
-	int withdrwal(String name, int acNo, int amount, int pin) {
-
-		System.out.println("withdrwal done");
-
-		return 10000;
-	}
 	
 	
 	
